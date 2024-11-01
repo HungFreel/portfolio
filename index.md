@@ -3,17 +3,6 @@ layout: default
 title: Hung Freel
 ---
 
-# Trevor Maxwell
-*Translating Data To Insightful Stories*
-
-[View My LinkedIn Profile]({{ site.linkedin_url }})
-
-The advancement of AI piqued my interest. What started as an exploration of the emerging technology turned into a career transition. I am excited to be working as a technical business analyst. I am looking forward to what I will continue to learn and discover.
-
-[View My GitHub Profile]({{ site.github_url }})
-
----
-
 ## Data Analytics Portfolio
 
 Thank you for having a look at my recent projects.
@@ -33,5 +22,3 @@ Let's embark on this exciting adventure together!
 ![Unraveling HR Data With Statistics](path-to-your-image.jpg)
 
 ![Analysis Of Layoff](path-to-your-image.jpg)
-
----
